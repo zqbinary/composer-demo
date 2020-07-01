@@ -1,0 +1,8 @@
+{
+    "name": "zqbinary/composer-demo",
+    "description": "composer demo",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
