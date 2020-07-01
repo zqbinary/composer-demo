@@ -1,8 +1,14 @@
 {
-    "name": "zqbinary/composer-demo",
-    "description": "composer demo",
-    "type": "project",
-    "license": "mit",
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "zqbinary/composer-demo",
+  "description": "composer demo",
+  "type": "project",
+  "authors": [
+    {
+      "name": "zqbinary",
+      "email": "zqbinary@foxmail.com"
+    }
+  ],
+  "license": "mit",
+  "minimum-stability": "dev",
+  "require": {}
 }
